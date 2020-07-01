@@ -1,0 +1,16 @@
+ref: hello_st2
+name: Hello Stackstorm
+description: Simple pack example
+keywords:
+  - example
+  - test
+version: 3.2.0
+python_version:
+  -"2"
+  -"3"
+dependencies:
+  - core
+author: Stackstorm
+email: info@stackstorm.com
+contributors:
+  - "Mamatha <mamatha.s@gmail.com">
